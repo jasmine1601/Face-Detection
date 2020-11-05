@@ -1,2 +1,4 @@
 # Face Detection
-Detects faces from a group photo using Open CV and Haar Cascades.
+
+* **Aim :** To detect faces from a group photo
+* **Model :** Cascade Classifier 
